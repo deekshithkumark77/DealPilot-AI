@@ -1,0 +1,30 @@
+
+# API keys and environment secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Frontend dependencies and builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files
+*.joblib
+*.pkl
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
