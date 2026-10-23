@@ -48,3 +48,12 @@ Open the URL Vite prints (usually http://localhost:5173).
 ## Important
 The seed endpoint creates fictional sample records only. Never treat demo data as real business performance.
 This is Phase 1. Meeting transcription, business memory, forecasting and prescriptive recommendations will be added in later phases.
+License
+
+DealPilot AI is licensed under the MIT License. See the LICENSE file for details.
+
+Copyright (c) 2026 Deekshith Kumar K.
+
+If you use or adapt this project, please retain the original copyright and license notices and consider crediting the original project:
+
+DealPilot AI — originally developed by Deekshith Kumar K.
